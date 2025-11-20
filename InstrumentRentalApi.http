@@ -1,0 +1,6 @@
+@InstrumentRentalApi_HostAddress = http://localhost:5012
+
+GET {{InstrumentRentalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
